@@ -48,9 +48,9 @@ p1={'name':'Virat Kohli', 'role':'bat', 'runs':112, '4':10, '6':0, 'balls':119, 
  2. One script file with the main code which computes the top player amongst the 5 given players.  
 When your script is run, it should generate a result which might look like this: 
 # OUTPUT
-{'name': 'Virat Kohli', 'batscore': 73} 
-{'name': 'du Plessis', 'batscore': 84} 
-{'name': 'Bhuvneshwar Kumar', 'bowlscore': 20} 
-{'name': 'Yuzvendra Chahal', 'bowlscore': 30} 
-{'name': 'Kuldeep Yadav', 'bowlscore': 45} 
+{'name': 'Virat', 'batscore': 73} 
+{'name': 'Dhoni', 'batscore': 89} 
+{'name': 'Bhuvneshwar', 'bowlscore': 20} 
+{'name': 'Yuzvendra', 'bowlscore': 24} 
+{'name': 'Kuldeep', 'bowlscore': 42} 
 >>>   
